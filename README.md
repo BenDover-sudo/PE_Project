@@ -21,9 +21,3 @@ An intelligent video platform that allows users to:
 - **AI:** OpenRouter API using Mistral model
 - **Style:** Dark-themed
 
-## 🛠️ Setup Instructions
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/ai-video-assistant.git
-   cd ai-video-assistant
