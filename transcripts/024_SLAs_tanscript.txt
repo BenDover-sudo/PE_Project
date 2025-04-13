@@ -1,0 +1,13 @@
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)
+
+Welcome to our Service Level Agreements module. A Service Level Agreement, or SLA, is a contract between your company and a service provider that provides the minimum acceptable level of service that is promised by the provider, as well as some type of penalty or remedy for a situation where the performance falls below that level. SLAs generally have metrics which can be monitored as well as audited, such as your service availability, your technical quality, security, or defect rates.
+
+SLAs always have a penalty for failure to perform, but you can also consider using a reward for great service, kind of like holding a stick out in front of the provider with a carrot on it, encouraging them to go above and beyond. You should remember for the CISSP examination that SLAs are a way of transferring risk to another company, such as hosting your data in a third-party data center to prevent having that risk within your facility. In addition to SLAs, you could have two other types of Contractual Agreements.
+
+Memorandums of Understanding, or MOUs, establish a relationship between two or more parties who are going to work together to accomplish a goal or a mission. These contracts define the responsibilities of those parties. These are less formal than service-level agreements and do not include monetary penalties, whereas SLAs do include monetary penalties for failing to provide an acceptable level of performance.
+
+Interconnection Security Agreements, or ISAs, are agreements that document technical requirements of the interconnection between two organizations who are going to be exchanging some type of sensitive data. These will identify the requirements for establishing, maintaining, and disconnecting a secure connection between the two sites, and will also discuss minimum encryption methods and other security policies that must be followed, and these will support MOUs between two companies. This concludes our Surface-Level Agreements module.
+
+Thank you for watching.
+
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.)
